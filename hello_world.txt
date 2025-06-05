@@ -1,0 +1,6 @@
+"adding some text
+accross multiple lines
+is this how syntax works?
+Oh, Wait. It's a text file.
+Who cares.
+"
